@@ -1,6 +1,6 @@
 # TCP/IP Chat
 Simple TCP/IP Chat With server and multi-client 
-to Run the program i need to use this command in cmd or terminal
+to run the program you need to use the following commands (This chat only work if you're in the same LAN this will NOT work if you are in a diffrent LAN obviously)
 
 # *Server*
 *dotnet run --project path\to\your\project\TCP_IP_Chat.csproj server*
