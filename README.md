@@ -5,4 +5,4 @@ to run the program you need to use the following commands in the TERMINAL or CMD
 # *Server*
 *dotnet run --project path\to\your\project\TCP_IP_Chat.csproj server*
 # *Client*
-*dotnet run --project path\to\your\project\TCP_IP_Chat.csproj server*
+*dotnet run --project path\to\your\project\TCP_IP_Chat.csproj client*
